@@ -57,7 +57,7 @@ There also will many code examples. Also, there will always be download buttons 
     </li>
     </ul>
 </li>
-<li>Post to the <a href="https://discord.gg/WbYnJCtcs6" target="_blank">Discord Homework Channel</a>.
+<li>Post to the <a href="https://discord.gg/AdEpbQEpSu" target="_blank">Discord Homework Channel</a>.
     <ul>
     <li>If you join our Discord Server, you can connect with your fellow students, ask questions, and know that I will get notified whenever something is posted so I can respond as well..</li>
     

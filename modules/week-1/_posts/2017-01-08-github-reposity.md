@@ -42,7 +42,7 @@ module: 1
 </div>
 
 <div id="Issues" class="tabcontent">
-<P>To create or respond to an issue, open the repo <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2023-Samples/issues" target="_blank">"Issues Forum"</a>.</p>
+<P>To create or respond to an issue, open the repo <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2024-Samples/issues" target="_blank">"Issues Forum"</a>.</p>
 
 <p>There you can search open issues to try and:</p>
 <ul>
