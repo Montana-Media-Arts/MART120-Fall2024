@@ -30,7 +30,7 @@ module: 1
 
 <p>To watch the course repo:</p>
 <ol>
-    <li>Navigate to <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2023-Samples/" target="_blank">Examples Website</a>. The issues forum for this site also links to the "Issues-Forum" tab above in the navbar.</li>
+    <li>Navigate to <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2024-Samples/" target="_blank">Examples Website</a>. The issues forum for this site also links to the "Issues-Forum" tab above in the navbar.</li>
     <li>In the upper right-hand corner, you should select both "watching" and "star".</li>
     <li>The star and watching allow GitHub to email you about notifications and issues in the course repo.</li>
     <li>When you have problems, please post them in the issues area.</li>
@@ -60,7 +60,7 @@ module: 1
 
 <div id="Create" class="tabcontent">
 
-<p><a href="//www.youtube.com/embed/FV4j1YkNSlo" data-lity>Create Repository Video</a></p>
+<p><a href="//youtu.be/nLWjVO1inDg" data-lity>Create Repository Video</a></p>
 
 <p>You want to create your repository if you don't have one. </p>
 <ol>
@@ -76,8 +76,6 @@ module: 1
 </div>
 
 <div id="GitHub" class="tabcontent">
-
-<p><a href="//www.youtube.com/embed/L0TKgJRdY0s" data-lity>GitHub Desktop Video</a></p>
 
 <p>GitHub Desktop is a graphical interface to make a copy of your repository on your computer.  Then, you can make changes to your work and then quickly post it back to your repository.  Or if you heaven forbid something happens to your computer [trust me, it happens], then you have a backup.</p>
 
@@ -104,6 +102,6 @@ Install for PC<br>
 
 Need more help?  Watch this video and it will walk you through how to use GitHub Desktop.  It will make things much easier.
 
-<p><a href="//www.youtube.com/embed/L0TKgJRdY0s" data-lity>GitHub Desktop Video</a></p>
+<p><a href="//youtu.be/BU4EDHZUZkI" data-lity>GitHub Desktop Workflow Video</a></p>
 
 </div>
