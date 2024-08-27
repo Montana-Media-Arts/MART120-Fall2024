@@ -15,7 +15,7 @@ jotted: false
 <div id="Quick" class="tabcontent" style="display:block">
 <p>Quick links, including email links, office hours, and lab hours, are all available from the <a href="https://montana-media-arts.github.io/MART120-Fall2024/instructors/">Instructors</a> tab above in the course menubar.</p>
 <p>What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team and will be working together to provide this experience to you.</p>
-<p><a href="//youtu.be/Ixpety11xEA" data-lity>Instructor Video</a></p>
+<p><a href="//youtu.be/IlN9AfESp_g" data-lity>Instructor Video</a></p>
 </div>
 
 <div id="Michael" class="tabcontent">

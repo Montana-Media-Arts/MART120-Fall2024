@@ -16,7 +16,7 @@ module: 1
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
-<p><a href="//www.youtube.com/embed/Jian1ilJwBs" data-lity>Computer Environment Video</a></p>
+<p><a href="//youtu.be/Z-0NDFh4fPU" data-lity>Computer Environment Video</a></p>
 <p>As a creative technologist and developer, you will need to take control of your computer. You should start to consider your computer as an instrument or an innovative tool that serves as an extension of yourself.</p>
 <p>To be effective, you need to be comfortable with your computer and <b>know</b> your computer.</p>
 <p>There are two different ways to find things on your computer.</p>
@@ -66,7 +66,7 @@ module: 1
 
 <div id="CLI" class="tabcontent">
 
-<p><a href="//www.youtube.com/embed/R_wj7DrD_g0" data-lity>Command-line Interface Video</a></p>
+<p><a href="//youtu.be/o8Oa_Ppz8hk" data-lity>Command-line Interface Video</a></p>
 <p>One of the most basic ways of working with your computer is through a <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_new">command-line interface (CLI)</a>.</p>
 
 <p><img src="../imgs/Screen1.png" alt="example image of terminal.app" /></p>
