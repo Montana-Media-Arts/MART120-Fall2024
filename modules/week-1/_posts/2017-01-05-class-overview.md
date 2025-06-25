@@ -58,7 +58,6 @@ There also will many code examples. Also, there will always be download buttons 
     </ul>
 </li>
 
-</li>
 <li>Get help from Rachel Cronk-- use me! That's why I am here!
     <ul>
     <li>If you have a problem, please contact me.  I am in my office a lot beyond my office hours, and I can work through Zoom, Discord, and email.  Let me know! My email is <b>rc231396@umconnect.umt.edu</b> -- please reach out if you need help!
