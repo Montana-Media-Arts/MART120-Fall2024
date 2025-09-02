@@ -1,6 +1,6 @@
 <h1>Instructors</h1>
 <BR>
-</BR><b>Maintained by: </b>[Rachel Cronk]
+</BR><b>Maintained by: </b>[Rachel Cronk]<BR>
 Rachel Cronk maintains this course. Please contact Rachel for problems that the Teaching Assistant cannot solve or for more significant issues you may have with the class.
 <BR><BR><BR>
 <B>E-Mail: </B>[rc231396@umconnect.umt.edu]
