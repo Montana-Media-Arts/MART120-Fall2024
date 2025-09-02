@@ -1,4 +1,4 @@
-<h1>Instructors</h1>h2>
+<h1>Instructors</h1>
 <BR>
 </BR><b>Maintained by: </b>[Rachel Cronk]
 Rachel Cronk maintains this course. Please contact Rachel for problems that the Teaching Assistant cannot solve or for more significant issues you may have with the class.
