@@ -2,7 +2,7 @@
 <BR>
 </BR><b>Maintained by: </b>[Rachel Cronk]
 Rachel Cronk maintains this course. Please contact Rachel for problems that the Teaching Assistant cannot solve or for more significant issues you may have with the class.
-<BR>
+<BR><BR><BR>
 <B>E-Mail: </B>[rc231396@umconnect.umt.edu]
 <b>Discord:</b> https://discord.gg/2RbFQbVVrz
 <b>Phone:</b> (406) 880 - 8875
