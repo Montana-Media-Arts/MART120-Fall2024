@@ -30,7 +30,7 @@ module: 3
 <div id="ToDo" class="tabcontent">
 <p>Now that you have watched her talk take the Grit test and see where you rank.  Keep track as you will discuss in the forum with your colleagues.</p>
 
-<p><a href="https://angeladuckworth.com/grit-scale/" target="_blank">Grit Test</a></p>
+<p><a href="https://www.angeladuckworth.com/grit#scale" target="_blank">Grit Test</a></p>
 
 <p>How did you score?  Was it accurate?  Did you see any surprises?  Make sure to jot down some notes about this.</p>
 </div>
